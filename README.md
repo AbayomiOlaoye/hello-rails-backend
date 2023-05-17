@@ -11,10 +11,11 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 Rails Budget App ](#-rails-budget-app-)
+- [📖 Hello_Rails_Backend ](#-hello-rails-backend-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
+    - [Link to frontend](#link-to-frontend)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
@@ -29,7 +30,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Rails Budget App <a name="about-project"></a>
+# 📖 Hello Rails Backend <a name="about-project"></a>
 This project serve as an Application Package Interface (API) for a front-end app built with React framework and related libraries. It emmits routes that generate random greeting to the users interacting with the frontend.
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -63,8 +64,10 @@ This project serve as an Application Package Interface (API) for a front-end app
 - **API endpoint serving Random Greetings to the front-end app**
 - **Clean code with best practices**
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Link to frontend <a name="link-to-frontend"></a>
+Here's the link to the frontend repository: [Hello Rails Frontend](https://github.com/AbayomiOlaoye/hello-rails-frontend)
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -144,13 +147,13 @@ To run tests, run the following command:
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
+## 👥 Author <a name="authors"></a>
 
 👤 **Oluwatoyin Olaoye**
 
-- GitHub: [@Mudasir Sherwani](https://github.com/abayomiolaoye)
-- Twitter: [@Mudasir Sherwani](https://twitter.com/olaoyeelijah)
-- LinkedIn: [@Mudasir Sherwani](https://linkedin.com/in/oluwatoyinolaoye)
+- GitHub: [@AbayomiOluwatoyin](https://github.com/abayomiolaoye)
+- Twitter: [@Abayomi](https://twitter.com/olaoyeelijah)
+- LinkedIn: [@MOluwatoyin](https://linkedin.com/in/oluwatoyinolaoye)
 
 
 
@@ -170,7 +173,7 @@ To run tests, run the following command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/AbayomiOlaoye/Hello-Rails-React/issues).
+Feel free to check the [issues page](https://github.com/AbayomiOlaoye/hello-rails-backend/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
